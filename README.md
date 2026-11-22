@@ -18,6 +18,7 @@ Importance of analyzing sales data: Identify sales patterns and track key perfor
 Role of reports: Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
 **Finance Report :**
+
 Project objective:
 
 1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
@@ -37,6 +38,8 @@ Project objective:
 4. Establishing data model relationships with Power Pivot.
 5. Proficiency in incorporating supplementary data into an existing data model.
 6. Utilizing DAX to create calculated columns.
+
+   
 **Soft Skills:**
 1.  Refined understanding of Sales & Finance Reports
 2.  Designing user-centric reports with empathy in mind.
